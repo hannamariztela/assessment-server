@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Maria Andersio",
+      "email": "maria@test.com",
+      "contact": "030-007431"
+    },
+    {
+      "id": "2",
+      "name": "Antonio Moreno",
+      "email": "antonio@test.com",
+      "contact": "555 78000"
+    }
+  ]
+}
